@@ -6,3 +6,4 @@ This plugin deletes topics
 - in designated categories
 
 
+**WARNING: I have not tested this yet. DO NOT use it**
